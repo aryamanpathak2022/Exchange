@@ -111,7 +111,7 @@ The backend server supports WebSocket connections for real-time updates. Ensure 
 
 ## Contributing
 
-Feel free to submit issues, fork the repository, and contribute to the project. For detailed instructions on how to contribute, please refer to the [CONTRIBUTING.md](CONTRIBUTING.md) file.
+Feel free to submit issues, fork the repository, and contribute to the project.
 
 ## License
 
